@@ -10,11 +10,9 @@
 
 I'm a Software Engineer with 5+ years of experience designing and building scalable backend systems, cloud-native applications, and AI-powered products. I enjoy solving hard engineering problems and turning complex requirements into clean, reliable software.
 
-Outside of my day job, I create content around software engineering, cloud, and AI on YouTube, Medium, and Instagram to help others learn and grow in tech.
-
 - 🚀 I love architecting systems that scale and actually stay maintainable
 - 🤖 Currently deep-diving into LLMs, RAG pipelines, and AI agent workflows
-- 🎥 I create tech content on YouTube, Medium, and Instagram
+- 🌐 Experienced across the full stack, from cloud infrastructure to front-end interfaces
 - ☕ Powered by coffee, curiosity, and clean code
 
 ---
@@ -37,9 +35,7 @@ Outside of my day job, I create content around software engineering, cloud, and 
 
 ## Connect With Me
 
-Note: YouTube, Medium, and Instagram links below are placeholders — replace YOUR_YOUTUBE_HANDLE, YOUR_MEDIUM_HANDLE, and YOUR_INSTAGRAM_HANDLE with your real usernames.
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@YOUR_YOUTUBE_HANDLE) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@YOUR_MEDIUM_HANDLE) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM_HANDLE) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandithamatta/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandithamatta/)
 
 ---
 
