@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm a Software Engineer with 5+ years of experience designing and building scalable backend systems, cloud-native applications, and AI-powered products. I enjoy solving hard engineering problems and turning complex requirements into clean, reliable software.
+I'm a Software Engineer with 5+ years of experience designing and building scalable backend systems & test automation frameworks, cloud-native applications, and AI-powered products. I enjoy solving hard engineering problems and turning complex requirements into clean, reliable software.
 
 - 🚀 I love architecting systems that scale and actually stay maintainable
 - 🤖 Currently deep-diving into LLMs, RAG pipelines, and AI agent workflows
